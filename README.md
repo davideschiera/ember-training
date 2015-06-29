@@ -3,8 +3,8 @@
 ```
 npm install -g ember-cli
 npm install -g phantomjs
-ember new app
-cd app
+ember new testapp
+cd testapp
 bower install
 ember server
 ```
