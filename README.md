@@ -5,6 +5,7 @@ npm install -g ember-cli
 npm install -g phantomjs
 ember new app
 cd app
+bower install
 ember server
 ```
 
